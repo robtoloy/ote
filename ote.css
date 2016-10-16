@@ -36,22 +36,22 @@ a {
 
 .left {
     display: flex;
-    transform: rotate(270deg);
-    flex-direction: row;
-    position: fixed;
-    width: 25px;
+    /* transform: rotate(270deg); */
+    flex-direction: column;
+    position: relative;
+    width: 5%;
     height: 100%;
-    top: 0;
-    left: -210px;
+    border: 1px solid;
 }
 .typemark {
   display: flex;
-  align-self: center;
 }
 .typemark-position {
   position: absolute;
   left: -50%;
-  bottom: 2px;  
+  border: 1px solid;
+  transform: rotate(270deg);
+  top: 50%;
 }
 .content{
   display: flex;

@@ -1,0 +1,33 @@
+{
+  "name": "ote",
+  "version": "1.0.0",
+  "description": "Odds to Ends Website for Cat by Rob",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robtoloy/ote.git"
+  },
+  "keywords": [
+    "odds",
+    "to",
+    "ends",
+    "handmade",
+    "goods",
+    "interior",
+    "design",
+    "services",
+    "consultation"
+  ],
+  "author": "Rob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robtoloy/ote/issues"
+  },
+  "homepage": "https://github.com/robtoloy/ote#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
