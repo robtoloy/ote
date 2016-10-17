@@ -59,8 +59,8 @@ a, small {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  -webkit-transition:top 0.9s;
-  transition: top 0.9s;
+  -webkit-transition:top 1s;
+  transition: top 1s;
   -webkit-transition-timing-function: ease;
           transition-timing-function: ease;  
 }
