@@ -1,1 +1,1 @@
-# ote
+# yarn, react, webpack, babel
